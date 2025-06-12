@@ -18,15 +18,13 @@ Conducted by a solo, non-academic researcher using GPT-4 as the primary expressi
 ---
 
 ## 📄 Current Status
-- 📨 Submitted to OpenAI via direct communication (multiple internal opens confirmed);
 
-- 🕵️‍♂️ Under review by Stripe’s Works in Progress team (10+ opens, follow-up active);
-
-- 📑 Full paper publicly available on OSF and GitHub (LaTeX + PDF included);
-
-- 📈 GitHub repository accessed via tracked links (2 referral entries from X, 5 views, 8 unique clone attempts), but core content remains overlooked by broader audience;
-
-- 📬 Full dialogue records and mail-tracking logs available upon request under confidentiality.
+- 📨 Submitted to OpenAI, Stripe, Harvard, MIT, Cambridge (CSER/LCFI/CHIA), and multiple editorial desks;
+- 🔄 Received high-frequency repeated opens from Stripe (14x), CSER Cambridge (3x), HKS Harvard (2x), and MIT Tech Review (2x);
+- 📑 Full paper hosted on GitHub;
+- 🧠 **Now reaching deeper technical engagement — 5 full GitHub clones from unique users**;
+- 📬 Dialogue records and live updates available upon request;
+- 🚧 Actively seeking media intermediaries or institutional partners for signal amplification.
 
 ---
 
