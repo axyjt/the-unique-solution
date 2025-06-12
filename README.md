@@ -8,7 +8,7 @@ A Real-World AI Co-Creation Experiment
 **The Unique Solution** is a groundbreaking experiment in AI-human co-creation.  
 Conducted by a solo, non-academic researcher using GPT-4 as the primary expressive tool, this project demonstrates how a non-institutional individual can:
 
-- Construct a novel theory of logic, probability, and rational interference;
+- Construct a novel theory of logic, probability, 和 rational interference;
 - Author a complete research paper without formal academic training;
 - Use AI not just as a tool, but as a medium for **post-institutional knowledge expression**.
 
@@ -18,11 +18,15 @@ Conducted by a solo, non-academic researcher using GPT-4 as the primary expressi
 ---
 
 ## 📄 Current Status
+- 📨 Submitted to OpenAI via direct communication (multiple internal opens confirmed);
 
-- 📨 Submitted to OpenAI via direct communication;
-- 🕵️‍♂️ Under internal review and attention by the Support & Research team;
-- 📑 Full paper uploaded to OSF (link pending public approval);
-- 📬 Willing to provide full dialogue records upon request under confidentiality.
+- 🕵️‍♂️ Under review by Stripe’s Works in Progress team (10+ opens, follow-up active);
+
+- 📑 Full paper publicly available on OSF and GitHub (LaTeX + PDF included);
+
+- 📈 GitHub repository accessed via tracked links (2 referral entries from X, 5 views, 8 unique clone attempts), but core content remains overlooked by broader audience;
+
+- 📬 Full dialogue records and mail-tracking logs available upon request under confidentiality.
 
 ---
 
